@@ -1,0 +1,12 @@
+.*.swp
+
+
+.dep/
+obj_othergo_lufa/
+*.eep
+*.elf
+*.hex
+*.lss
+*.map
+*.sym
+
